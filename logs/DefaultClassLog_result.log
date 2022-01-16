@@ -1,0 +1,12 @@
+Jan 16, 2022 1:03:13 PM com.selenium.base.InitWebDriver setUpClassLogger
+INFO: Starting : DefaultClassLog
+Jan 16, 2022 1:04:20 PM com.selenium.base.InitWebDriver tearDown
+INFO: Ending : DefaultClassLog
+Jan 16, 2022 2:06:16 PM com.selenium.base.InitWebDriver setUpClassLogger
+INFO: Starting : DefaultClassLog
+Jan 16, 2022 2:06:16 PM com.selenium.base.InitWebDriver tearDown
+INFO: Ending : DefaultClassLog
+Jan 16, 2022 2:14:01 PM com.selenium.base.InitWebDriver setUpClassLogger
+INFO: Starting : DefaultClassLog
+Jan 16, 2022 2:16:48 PM com.selenium.base.InitWebDriver tearDown
+INFO: Ending : DefaultClassLog

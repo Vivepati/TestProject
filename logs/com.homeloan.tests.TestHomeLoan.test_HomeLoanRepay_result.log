@@ -1,0 +1,24 @@
+Jan 16, 2022 1:03:23 PM com.selenium.base.InitWebDriver setUpLogger
+INFO: Starting : com.homeloan.tests.TestHomeLoan_test_HomeLoanRepay
+Jan 16, 2022 1:03:30 PM com.homeloan.methods.HomeLoanMehtods calculateHomeLoanReypayment
+INFO: Total Repayemnt: $279,591
+Jan 16, 2022 1:03:30 PM com.homeloan.methods.HomeLoanMehtods calculateHomeLoanReypayment
+INFO: Total Interest: $79,591
+Jan 16, 2022 1:04:20 PM com.homeloan.methods.HomeLoanMehtods calculateHomeLoanReypayment
+INFO: Done!
+Jan 16, 2022 1:04:20 PM com.homeloan.tests.TestHomeLoan test_HomeLoanRepay
+INFO: After executing test case returned string :done
+Jan 16, 2022 1:04:20 PM com.selenium.base.InitWebDriver tearDownLogger
+INFO: Ending : com.homeloan.tests.TestHomeLoan_test_HomeLoanRepay
+Jan 16, 2022 2:14:45 PM com.selenium.base.InitWebDriver setUpLogger
+INFO: Starting : com.homeloan.tests.TestHomeLoan_test_HomeLoanRepay
+Jan 16, 2022 2:15:06 PM com.homeloan.methods.HomeLoanMehtods calculateHomeLoanReypayment
+INFO: Total Repayemnt: $279,591
+Jan 16, 2022 2:15:06 PM com.homeloan.methods.HomeLoanMehtods calculateHomeLoanReypayment
+INFO: Total Interest: $79,591
+Jan 16, 2022 2:16:48 PM com.homeloan.methods.HomeLoanMehtods calculateHomeLoanReypayment
+INFO: Done!
+Jan 16, 2022 2:16:48 PM com.homeloan.tests.TestHomeLoan test_HomeLoanRepay
+INFO: After executing test case returned string :done
+Jan 16, 2022 2:16:48 PM com.selenium.base.InitWebDriver tearDownLogger
+INFO: Ending : com.homeloan.tests.TestHomeLoan_test_HomeLoanRepay
