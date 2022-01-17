@@ -69,3 +69,6 @@ Total Interest: $140,977
 Total Repayemnt: $339,677
 
 2) The log file TestHomeLoan.test_HomeLoanRepay_result.log is generated under logs folder.
+
+Q3 -->
+Attaching Test Plan and Test cases .File names are TestPlanCBA.pdf and Card payment cases.xlsx
